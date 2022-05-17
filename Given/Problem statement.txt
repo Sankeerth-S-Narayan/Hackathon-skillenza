@@ -1,0 +1,20 @@
+As a data scientist of a leading decision analysis firm you are required to predict the potential global user of the game based on the data provided by the customer so that they can plan their global launch.
+
+Name - Game name
+Platform - Running platform
+Year of release
+Genre - Game Genre
+Publisher
+Critic_score - Aggregate score compiled by Metacritic staff
+Criticcount - The number of critics used in coming up with the Critic Score
+User_score - Score by Metacritic’s subscribers
+Usercount - Number of users who gave the user score
+Developer - Party responsible for creating the game
+Rating - The ESRB ratings
+NA_Sales - Sales in North America (in millions of units)
+EU_Sales - Sales in the European Union (in millions of units)
+JP_Sales - Sales in Japan (in millions of units)
+Global_Sales - Total sales in the world (in millions of units)
+
+
+
